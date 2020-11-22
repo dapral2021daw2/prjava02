@@ -1,3 +1,14 @@
-5. Que no tenim el darrer commit, la versió 1.1 del projecte.
+1. git checkout -b branca00, git switch branca00
+5. git switch main, git status, git log main
+7. git switch branca00
+10b. git merge branca00
+12. git push -u origin main
+14a. git push -u origin branca01
+
+
 6. No, perque estem a l'altre branca.
 7.Si, perque estem a la branca que ho hem creat.
+12c. Perque hem fet un push de la branca main
+14c. 1 commit.
+
+
